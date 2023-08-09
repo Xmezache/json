@@ -1,0 +1,131 @@
+{
+  "accountInfo": {
+    "allLanguageObjects": [
+      {
+        "checkedByDefault": true,
+        "id": 9,
+        "isoValue": "fr",
+        "localizedName": "Français",
+        "name": "French"
+      },
+      {
+        "checkedByDefault": true,
+        "id": 2,
+        "isoValue": "en",
+        "localizedName": "Anglais",
+        "name": "English"
+      },
+      {
+        "checkedByDefault": false,
+        "id": 22,
+        "isoValue": "ar",
+        "localizedName": "Arabe",
+        "name": "Arabic"
+      },
+      {
+        "checkedByDefault": false,
+        "id": 1,
+        "isoValue": "sv",
+        "localizedName": "Suédois",
+        "name": "Swedish"
+      },
+      {
+        "checkedByDefault": false,
+        "id": 8,
+        "isoValue": "de",
+        "localizedName": "Allemand",
+        "name": "German"
+      },
+      {
+        "checkedByDefault": false,
+        "id": 11,
+        "isoValue": "es",
+        "localizedName": "Espagnol",
+        "name": "Spanish"
+      },
+      {
+        "checkedByDefault": false,
+        "id": 10,
+        "isoValue": "it",
+        "localizedName": "Italien",
+        "name": "Italian"
+      },
+      {
+        "checkedByDefault": false,
+        "id": 13,
+        "isoValue": "pl",
+        "localizedName": "Polonais",
+        "name": "Polish"
+      },
+      {
+        "checkedByDefault": false,
+        "id": 12,
+        "isoValue": "nl",
+        "localizedName": "Néerlandais",
+        "name": "Dutch"
+      },
+      {
+        "checkedByDefault": false,
+        "id": 7,
+        "isoValue": "fi",
+        "localizedName": "Finnois",
+        "name": "Finnish"
+      },
+      {
+        "checkedByDefault": false,
+        "id": 5,
+        "isoValue": "da",
+        "localizedName": "Danois",
+        "name": "Danish"
+      },
+      {
+        "checkedByDefault": false,
+        "id": 28,
+        "isoValue": "pt",
+        "localizedName": "Portugais",
+        "name": "Portuguese"
+      },
+      {
+        "checkedByDefault": false,
+        "id": 20,
+        "isoValue": "zh",
+        "localizedName": "Chinois",
+        "name": "Chinese"
+      },
+      {
+        "checkedByDefault": false,
+        "id": 14,
+        "isoValue": "ru",
+        "localizedName": "Russe",
+        "name": "Russian"
+      }
+    ],
+    "connectedSocialId": null,
+    "countryId": 7,
+    "countryIso": "fr",
+    "createdAt": "2023-08-08T17:29:28",
+    "eligibleForTrial": false,
+    "email": "aaamz4@gmail.com",
+    "emailVerified": false,
+    "enthusiast": false,
+    "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiI0NTk2OTgyOCIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjkxNTE1OTc0LCJzZXhwIjoxNjkxNTE2Mjc0LCJleHAiOjE2OTQ5NzE5NzQsImlzcyI6IlNUSFAiLCJjaWQiOiI0NTk2OTgyOCIsInN0b3JlIjoiU1RIUC1GUiIsImNvdW50cnlJZCI6IjciLCJiYXNlUHJvZHVjdHMiOlsiVElNRV9MSU1JVEVEIl19.TS2lm3ajXKciYEiB4J7Uul7ZLWCRhYsORly09pxoowg",
+    "lang": "fr",
+    "loginStatus": 5,
+    "loginStatusEnum": "PREMIUM",
+    "maximumNumberOfflineBooks": 100,
+    "paymentIssues": false,
+    "phoneNumber": "aaamz4@gmail.com",
+    "preview": false,
+    "refreshToken": null,
+    "singleSignToken": "SBY03B81LDJbbDyVqjlgwVOj9gUJKgax",
+    "userId": 45969828
+  },
+  "customerCurrentLocation": "NL",
+  "customerId": 0,
+  "lang": null,
+  "message": "PREMIUM",
+  "optionalBooks": -1,
+  "premiumRealised": true,
+  "result": "success",
+  "serverDateMillis": 1691515974267
+}
